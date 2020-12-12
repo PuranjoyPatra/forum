@@ -1,9 +1,9 @@
 # forum
  
- FRONTEND OF THIS WEBSITE IS DESIGNED USING BOOTSTRAP, HTML AND CSS.
+Frontend of this website is designed using Bootstrap, HTML and CSS.
  
- LOGIC AND BACKEND ARE DEVELOPED USING PHP AND MySQL.
+ Logic and backend are developed using PHP and MySQL.
  
- USER MUST BE LOGGED IN TO REPLY ANY COMMENTS OR POST ANY QUESTION ABOUT A CATEGORY(THREADS)
+ User must be logged in to reply any comments or post any question about a Category (Threads)
  
- USER CREDENTIALS AND INPUT DATA ARE TAKEN WITH SANITIZED AND SECURED WAY. SOME SECURITY PURPOSE ARE TRYING TO IMPLEMENTED.
+ User credentials and input data are taken with sanitized and secured way. Some security purpose are trying to implement.
