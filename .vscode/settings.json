@@ -1,0 +1,8 @@
+{
+  "phpfmt.passes": [],
+  "phpfmt.indent_with_space": 2,
+  "phpfmt.exclude": [],
+  "phpformatter.additionalExtensions": [
+    "phpfmt.indent_with_space"
+  ]
+}
