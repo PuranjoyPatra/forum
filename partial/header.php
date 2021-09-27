@@ -32,7 +32,7 @@ echo '<nav class="nav navbar navbar-expand-lg navbar-dark bg-dark">
       echo '</div>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="about.php">About Us</a>
+        <a class="nav-link" href="about.php">About</a>
       </li>
       
     </ul>
