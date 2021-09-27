@@ -6,6 +6,7 @@
 -- Generation Time: Sep 27, 2021 at 06:46 PM
 -- Server version: 10.4.21-MariaDB
 -- PHP Version: 8.0.10
+-- all the tables of 'idiscuss' database for forum website  related queries are here. idiscuss forum developed by Puranjoy Patra
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
